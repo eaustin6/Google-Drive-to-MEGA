@@ -8,7 +8,9 @@ A Simple & User-Friendly Google Colab Notebook to Upload all your Files &amp; Fo
 <h4>4.Added Time Out Preventer!🤩</h4>
   
 ## ⚙️ How to Use ? 
-<h4> 1.First Open the Code in Google Collab! <a href="https://colab.research.google.com/github/TheCaduceus/Google-Drive-to-MEGA/blob/main/Google_Drive_to_Mega_Transfer.ipynb">Open Code</a> </h4>
+<h4> 1.1 First Open the Code in Google Collab! <a href="https://colab.research.google.com/github/TheCaduceus/Google-Drive-to-MEGA/blob/main/Google_Drive_to_Mega_Transfer.ipynb">Open Code</a> </h4>
+<h4> 1.2 You can also check the Speed from which the Google will transfer your Data! (Optional)</h4>
+<img src="https://github.com/TheCaduceus/Google-Drive-to-MEGA/blob/main/Img/27.png">
 <h4> 2.It is too Simple! Choose "Mount" from the Dropdown list in "Connect Google Account" Section and click on play button. </h4>
 <img src="https://github.com/TheCaduceus/Google-Drive-to-MEGA/blob/main/Img/20.png">
 <h4> 3.Now! If you need to upload file/folder from My Drive then you need file name with format, So run the code as shown in the Image to get it and copy the file name with format but without (' '),Or you can trasfer File from Shared Drive also! So first you need the correct name of Shared Drive(Available in your Google Drive) for this Run the code as shown in the Image and copy it </h4>
@@ -34,6 +36,7 @@ A Simple & User-Friendly Google Colab Notebook to Upload all your Files &amp; Fo
 <h4> 5.PATH: Address of File or Folder which needs to be Uploaded.</h4>
 <h2> 🔐 Safe or Not? ✅</h2>
 <h4> Don't Worry! No data will be shared with anyone, if you use the <a href="https://github.com/TheCaduceus/Google-Drive-to-MEGA">Original code</a>.🔒</h4>
+<h4> The Email ID and Password which you enter in this Colab, will not be saved anywhere including your Browser and no one except you can view it.💾</h4> 
 <h4> This code do not share even a single piece of data to any third party source and not create any log of that!🔑</h4>
 <h4> Do not trust any other copy of this Code.📚</h4>
 <h2> 🤔 Why Use This?</h2>
